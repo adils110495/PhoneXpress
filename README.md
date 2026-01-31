@@ -77,3 +77,31 @@
         ✔ Secure checkout process
         ✔ Easy product & order management
         ✔ SEO-friendly structure
+
+📸 Screenshots (See Below)
+
+### 🏠 Home Page
+![Home Page](screenshots/home1.PNG)
+![Home Page](screenshots/home2.PNG)
+
+### 🛍️ Product Listing
+![Product Listing](screenshots/products.PNG)
+![Product Listing](screenshots/cases.PNG)
+
+### 🛒 Cart Page
+![Cart](screenshots/shopping-cart.PNG)
+
+### 💳 Checkout Page
+![Checkout](screenshots/checkout.PNG)
+
+### 💳 Shipping Page
+![Shipping](screenshots/shipping.PNG)
+
+### 💳 Orders Page
+![Order](screenshots/orders.PNG)
+
+### 💳 Order Tracking Page
+![Order](screenshots/order-tracking.PNG)
+
+
+🔒 Source Code: Private repository. Available upon request.
