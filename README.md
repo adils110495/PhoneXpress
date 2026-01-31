@@ -13,6 +13,7 @@ The HEServices E-Commerce Platform is a fully responsive online shopping website
 It ensures a smooth shopping experience across all screen sizes.
 
 🧠 Core Features
+
   🛍️ Product Management
       - Product listing with categories
       - Product detail pages
