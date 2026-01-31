@@ -16,9 +16,13 @@ It ensures a smooth shopping experience across all screen sizes.
 
   🛍️ Product Management
       - Product listing with categories
+      
       - Product detail pages
+      
       - Featured & latest products
+      
       - Image gallery support
+      
       - Price display & discount handling
 
   🛒 Shopping Cart System
