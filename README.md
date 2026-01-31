@@ -6,7 +6,9 @@
 🛍️ Built with WordPress
 
     📌 Project Overview
-        The HEServices E-Commerce Platform is a fully responsive online shopping website developed using WordPress. It enables customers to browse products, add them to cart, and complete purchases through a seamless and user-friendly interface. The website is optimized for:
+        The HEServices E-Commerce Platform is a fully responsive online shopping website developed using WordPress.
+        It enables customers to browse products, add them to cart, and complete purchases through a seamless and user-friendly interface. 
+        The website is optimized for:
             - Desktop
             - Tablet
             - Mobile Devices
